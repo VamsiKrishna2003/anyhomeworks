@@ -320,7 +320,7 @@ const WeekPopup = ({ course, week, onClose }) => {
         break;
       case 'Week 4':
         content = (
-          <ul>
+          <ol>
             <li>1. (c) Ethnocentrism</li>
             <li>2. (b) Neo-Marxism</li>
             <li>3. (d) All of these</li>
@@ -330,7 +330,7 @@ const WeekPopup = ({ course, week, onClose }) => {
             <li>7. (d) Hamza Alavi</li>
             <li>8. (d) Raul Prebisch</li>
             {/* Add more items as needed */}
-          </ul>
+          </ol>
         );
         break;
       case 'Week 5':
