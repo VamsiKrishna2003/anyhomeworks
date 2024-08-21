@@ -13,7 +13,7 @@ const teamMembers = [
         name: "Vamsi Krishna",
         role: "Backend-developer",
         image: "/",
-        description: "Art is not just what I do, it's who I am."
+        description: "Art is not just what I do, it's who I am. Being Backend is my art"
     },
     {
         name: "Shannon Regan",
